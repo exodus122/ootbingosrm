@@ -28,8 +28,10 @@ bingoList[3] = [
 	{ name: "Frog Storms HP", jp: '', types: ["river"], subtypes: [], child: "no" },
 	{ name: "Learn Minuet of Forest", jp: '', types: ["sfm"], subtypes: [], child: "no" },
 	{ name: "Learn Bolero of Fire", jp: '', types: ["dmc"], subtypes: [], child: "no" },
+	{ name: "Lab Dive HP", jp: '', types: ["lake"], subtypes: [], child: "no" },
 ];
 bingoList[4] = [
+	{ name: "Unfreeze King Zora", jp: '', types: ["domain"], subtypes: [], child: "no" },
 	{ name: "Defeat Queen Gohma", jp: '', types: ["deku"], subtypes: [], child: "no" },
 	{ name: "All 4 Skulltulas in Deku Tree", jp: '', types: ["deku"], subtypes: [], child: "no" },
 	{ name: "Open Map & Compass chests in Dodongo's Cavern", jp: '', types: ["dc"], subtypes: [], child: "no" },
@@ -42,7 +44,7 @@ bingoList[4] = [
 bingoList[5] = [
 	{ name: "Open Fire Temple Boss Key Chest", jp: '', types: ["fire"], subtypes: ["bosskey"], child: "no" },
 	{ name: "Desert Colossus HP", jp: '', types: ["colossus", "spirit"], subtypes: [], child: "no" },
-	{ name: "Unfreeze King Zora", jp: '', types: ["domain"], subtypes: [], child: "no" },
+	{ name: "Wake Talon as Child and Adult", jp: '', types: ["talon"], subtypes: [], child: "no" },
 	{ name: "All 3 Kokiri Forest area Skulltulas", jp: '', types: ["skulltula"], subtypes: [], child: "no" },
 	{ name: "Zora's Fountain Fairy Reward", jp: '', types: ["magic", "fountain"], subtypes: [], child: "no" },
 	{ name: "Buy 5 Magic Beans", jp: '', types: ["beans"], subtypes: [], child: "no" },
@@ -144,7 +146,7 @@ bingoList[15] = [
 	{ name: "Open 4 Map chests", jp: '', types: ["mapcompass"], subtypes: [], child: "no" },
 ];
 bingoList[16] = [
-	{ name: "1 Skulltula from each Child Dungeon", jp: '', types: ["dungeons", "skulltula"], subtypes: [], child: "no" },
+	{ name: "Open Shadow Temple Boss Key chest", jp: '', types: ["shadow"], subtypes: ["bosskey"], child: "no" },
 	{ name: "Open the Final Door of Light Trial", jp: '', types: ["ganon"], subtypes: [], child: "no" },
 	{ name: "Open the Final Door of Shadow Trial", jp: '', types: ["ganon"], subtypes: [], child: "no" },
 	{ name: "Open the Final Door of Forest Trial", jp: '', types: ["ganon"], subtypes: [], child: "no" },
@@ -153,10 +155,11 @@ bingoList[16] = [
 ];
 bingoList[17] = [
 	{ name: "37th Heart Piece (Child Fortress)", jp: '', types: ["fortress"], subtypes: [], child: "no" },
+	{ name: "Free all 4 Carpenters", jp: '', types: ["fortress"], subtypes: [], child: "no" },
 	{ name: "Open Fairy Bow chest", jp: '', types: ["forest"], subtypes: [], child: "no" },
 	{ name: "Open Megaton Hammer chest", jp: '', types: ["fire"], subtypes: [], child: "no" },
 	{ name: "Open Forest Boss Key chest", jp: '', types: ["forest"], subtypes: ["bosskey"], child: "no" },
-	{ name: "Open Shadow Temple Boss Key chest", jp: '', types: ["shadow"], subtypes: ["bosskey"], child: "no" },
+	{ name: "4 Skulltulas in Shadow Temple", jp: '', types: ["shadow"], subtypes: [], child: "no" },
 ];
 bingoList[18] = [
 	{ name: "Open the Final Door of Spirit Trial", jp: '', types: ["ganon"], subtypes: [], child: "no" },
@@ -164,18 +167,17 @@ bingoList[18] = [
 	{ name: "Defeat Ganondorf", jp: '', types: ["ganon"], subtypes: [], child: "no" },
 	{ name: "Open 6 Small Key chests in Gerudo Training Grounds", jp: '', types: ["gtg"], subtypes: [], child: "no" },
 	{ name: "Open 2 Boss Key chests", jp: '', types: ["bosskey"], subtypes: [], child: "no" },
-	{ name: "Free all 4 Carpenters", jp: '', types: ["fortress"], subtypes: [], child: "no" },
+	{ name: "1 Skulltula from each Child Dungeon", jp: '', types: ["dungeons", "skulltula"], subtypes: [], child: "no" },
 ];
 bingoList[19] = [
 	{ name: "Score 1000+ in Gerudo Archery", jp: '', types: ["fortress"], subtypes: [], child: "no" },
 	{ name: "Open Map & Compass chests in Forest Temple", jp: '', types: ["forest"], subtypes: ["mapcompass"], child: "no" },
 	{ name: "Score 1500+ in Gerudo Archery", jp: '', types: ["fortress"], subtypes: [], child: "no" },
 	{ name: "5 Zora area HPs", jp: '', types: ["fountain"], subtypes: [], child: "no" },
-	{ name: "All 8 Death Mountain area Skulltulas", jp: '', types: ["skulltula"], subtypes: [], child: "no" },
 	{ name: "All 5 Skulltulas in Dodongo's Cavern", jp: '', types: ["dc"], subtypes: [], child: "no" },
+	{ name: "Both Rusty Switches in Spirit Temple", jp: '', types: ["spirit"], subtypes: [], child: "no" },
 ];
 bingoList[20] = [
-	{ name: "Both Rusty Switches in Spirit Temple", jp: '', types: ["spirit"], subtypes: [], child: "no" },
 	{ name: "Open 5 Map chests", jp: '', types: ["mapcompass"], subtypes: [], child: "no" },
 	{ name: "Open 5 Compass chests", jp: '', types: ["mapcompass"], subtypes: [], child: "no" },
 	{ name: "Open 4 Small Key chests in Forest Temple", jp: '', types: ["forest"], subtypes: [], child: "no" },
@@ -190,15 +192,16 @@ bingoList[21] = [
 	{ name: "Defeat both Flare Dancers", jp: '', types: ["fire"], subtypes: [], child: "no" },
 	{ name: "Defeat 4 Different Iron Knuckles", jp: '', types: ["spirit"], subtypes: [], child: "no" },
 	{ name: "Open Map & Compass chests in Fire Temple", jp: '', types: ["fire"], subtypes: ["mapcompass"], child: "no" },
-	{ name: "All 8 Zora's Domain area Skulltulas", jp: '', types: ["skulltula"], subtypes: [], child: "no" },
+	{ name: "All 8 Death Mountain area Skulltulas", jp: '', types: ["skulltula"], subtypes: [], child: "no" },
 ];
 bingoList[22] = [
+	{ name: "All 8 Zora's Domain area Skulltulas", jp: '', types: ["skulltula"], subtypes: [], child: "no" },
 	{ name: "Open 7 Small Key chests in Gerudo Training Grounds", jp: '', types: ["gtg"], subtypes: [], child: "no" },
 	{ name: "Open 8 Small Key chests in Gerudo Training Grounds", jp: '', types: ["gtg"], subtypes: [], child: "no" },
-	{ name: "4 Skulltulas in Shadow Temple", jp: '', types: ["shadow"], subtypes: [], child: "no" },
-	{ name: "Learn 7 Songs", jp: '', types: ["songs"], subtypes: [], child: "no" },
+	{ name: "All 5 Skulltulas in Shadow Temple", jp: '', types: ["shadow"], subtypes: [], child: "no" },
 	{ name: "3 Skulltulas in Water Temple", jp: '', types: ["water"], subtypes: [], child: "no" },
 	{ name: "Open 5 Small key chests in Spirit Temple", jp: '', types: ["spirit"], subtypes: [], child: "no" },
+	{ name: "Open 5 Small Key chests in Shadow Temple", jp: '', types: ["shadow"], subtypes: [], child: "no" },
 ];
 bingoList[23] = [
 	{ name: "Open 8 Small Key chests in Fire Temple", jp: '', types: ["fire"], subtypes: [], child: "no" },
@@ -214,13 +217,14 @@ bingoList[24] = [
 	{ name: "Clear 8 Silver Rupee Rooms", jp: '', types: ["silverrupee"], subtypes: [], child: "no" },
 	{ name: "Defeat All 4 Poe Sisters in Forest Temple", jp: '', types: ["forest"], subtypes: [], child: "no" },
 	{ name: "Free all 9 Gorons in Fire Temple", jp: '', types: ["fire"], subtypes: [], child: "no" },
-	{ name: "Open 5 Small Key chests in Shadow Temple", jp: '', types: ["shadow"], subtypes: [], child: "no" },
+	{ name: "Defeat 7 Different Stalfos", jp: '', types: ["forest", "ganon"], subtypes: [], child: "no" },
 	{ name: "Summon Pierre in each Adult Dungeon", jp: '', types: ["dungeons"], subtypes: [], child: "no" },
 ];
 bingoList[25] = [
+	{ name: "Defeat 5 Different Iron Knuckles", jp: '', types: ["spirit"], subtypes: [], child: "no" },
 	{ name: "Open 2 Small Key chests in 3 Adult dungeons", jp: '', types: ["dungeons"], subtypes: [], child: "no" },
 	{ name: "All 5 Skulltulas in Water Temple", jp: '', types: ["water"], subtypes: [], child: "no" },
-	{ name: "All 5 Skulltulas in Shadow Temple", jp: '', types: ["shadow"], subtypes: [], child: "no" },
+	{ name: "Learn 7 Songs", jp: '', types: ["songs"], subtypes: [], child: "no" },
 	{ name: "Open 7 Map chests", jp: '', types: ["mapcompass"], subtypes: [], child: "no" },
 	{ name: "Open 7 Compass chests", jp: '', types: ["mapcompass"], subtypes: [], child: "no" },
 	{ name: "Clear 10 Silver Rupee Rooms", jp: '', types: ["silverrupee"], subtypes: [], child: "no" },
