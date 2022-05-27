@@ -206,7 +206,7 @@ bingoList[23] = [
 	{ name: "Open 5 Small Key chests in Forest Temple", jp: '', types: ["forest"], subtypes: [], child: "no" },
 ];
 bingoList[24] = [
-	{ name: "1 Unused Small Key in each Adult Dungeon", jp: '', types: ["dungeons"], subtypes: [], child: "no" },
+	{ name: "Open 1 Small Key chest in each Adult Dungeon", jp: '', types: ["dungeons"], subtypes: [], child: "no" },
 	{ name: "All 5 Skulltulas in Fire Temple", jp: '', types: ["fire"], subtypes: ["goldrupee"], child: "no" },
 	{ name: "1 Skulltula from each Adult Dungeon", jp: '', types: ["dungeons", "skulltula"], subtypes: [], child: "no" },
 	{ name: "Clear 8 Silver Rupee Rooms", jp: '', types: ["silverrupee"], subtypes: [], child: "no" },
