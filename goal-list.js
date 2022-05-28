@@ -8,6 +8,7 @@ bingoList[1] = [
 	{ name: "Bottled Fairy", jp: '', types: ["bottle"], subtypes: [], child: "no" },
 	{ name: "Win Market Shooting Gallery", jp: '', types: ["market"], subtypes: [], child: "no" },
 	{ name: "Open Door of Time", jp: '', types: ["market"], subtypes: [], child: "no" },
+	{ name: "Win Market Chest Minigame", jp: '', types: ["market"], subtypes: [], child: "no" },
 	{ name: "Plant bean in Death Mountain Crater", jp: '', types: ["dmc"], subtypes: [], child: "no" },
 ];
 bingoList[2] = [
@@ -16,7 +17,7 @@ bingoList[2] = [
 	{ name: "Open 50 Rupee chest in Wasteland", jp: '', types: ["fortress"], subtypes: [], child: "no" },
 	{ name: "Hyrule Castle Fairy Reward", jp: '', types: ["magic"], subtypes: [], child: "no" },
 	{ name: "Win Kakariko Shooting Gallery", jp: '', types: ["kak"], subtypes: [], child: "no" },
-	{ name: "Win Market Chest Minigame", jp: '', types: ["market"], subtypes: [], child: "no" },
+	{ name: "Get F Boots", jp: '', types: ["fboots"], subtypes: [], child: "no" },
 	{ name: "Both HPs in Death Mountain Crater", jp: '', types: ["dmc"], subtypes: [], child: "no" },
 ];
 bingoList[3] = [
