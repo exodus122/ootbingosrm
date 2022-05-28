@@ -10,17 +10,18 @@ bingoList[1] = [
 	{ name: "Open Door of Time", jp: '', types: ["market"], subtypes: [], child: "no" },
 	{ name: "Win Market Chest Minigame", jp: '', types: ["market"], subtypes: [], child: "no" },
 	{ name: "Plant bean in Death Mountain Crater", jp: '', types: ["dmc"], subtypes: [], child: "no" },
-];
-bingoList[2] = [
 	{ name: "Open Map & Compass chests in Deku Tree", jp: '', types: ["deku"], subtypes: [], child: "no" },
 	{ name: "Open Fairy Slingshot chest", jp: '', types: ["deku"], subtypes: [], child: "no" },
-	{ name: "Open 50 Rupee chest in Wasteland", jp: '', types: ["fortress"], subtypes: [], child: "no" },
 	{ name: "Hyrule Castle Fairy Reward", jp: '', types: ["magic"], subtypes: [], child: "no" },
 	{ name: "Win Kakariko Shooting Gallery", jp: '', types: ["kak"], subtypes: [], child: "no" },
+
+];
+bingoList[2] = [
 	{ name: "Get F Boots", jp: '', types: ["fboots"], subtypes: [], child: "no" },
-	{ name: "Both HPs in Death Mountain Crater", jp: '', types: ["dmc"], subtypes: [], child: "no" },
 ];
 bingoList[3] = [
+	{ name: "Open 50 Rupee chest in Wasteland", jp: '', types: ["fortress"], subtypes: [], child: "no" },
+	{ name: "Both HPs in Death Mountain Crater", jp: '', types: ["dmc"], subtypes: [], child: "no" },
 	{ name: "Open Map & Compass chests in Bottom of the Well", jp: '', types: ["well"], subtypes: ["mapcompass"], child: "no" },
 	{ name: "3 Lake Hylia Skulltulas", jp: '', types: ["lake"], subtypes: [], child: "no" },
 	{ name: "Double Defense", jp: '', types: ["magic"], subtypes: [], child: "no" },
